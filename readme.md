@@ -19,5 +19,10 @@
 ------------------------------
 # add by leebaok at master
 # add by leebaok at newbr
+<<<<<<< HEAD
 --------------------------
 # add by leebaok at master -- 2
+=======
+---------------------------
+# add by leebaok at newbr by step 101
+>>>>>>> newbr
